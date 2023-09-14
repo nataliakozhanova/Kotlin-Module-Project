@@ -1,0 +1,1 @@
+class Archive (name: String, var notes: MutableList<Note>) : NamedElement(name = name)
