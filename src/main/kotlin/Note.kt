@@ -1,0 +1,1 @@
+class Note(name: String, val text: String) : NamedElement(name = name)
